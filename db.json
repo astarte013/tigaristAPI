@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "title": "Can I Still Get into the Fluffy Little Space in Your Heart?",
+    "lyrics": [
+      "your?"
+    ],
+    "releaseDate": 2022,
+    "type": "Single",
+    "performer": "Tigarist",
+    "writers": "Zulfan Rahman",
+    "producers": "Zulfan Rahman",
+    "source": "Balconist",
+    "thumbnail": "https://i.scdn.co/image/ab67616d00001e02466b641e27713881d3f8e2c7"
+  },
+  {
+    "id": 2,
+    "title": "Honesty & Falsity",
+    "lyrics": [
+      "Girl"
+    ],
+    "releaseDate": 2022,
+    "type": "Single",
+    "performer": "Tigarist",
+    "writers": "Zulfan Rahman",
+    "producers": "Zulfan Rahman",
+    "source": "Balconist",
+    "thumbnail": "https://i.scdn.co/image/ab67616d00001e0298225b3d50907e025113a67a"
+  }
+]
